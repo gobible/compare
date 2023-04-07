@@ -1,6 +1,6 @@
 # Gobible Compare
 
-A simple tool to compare two bible versions, creating a new version with (++additons++) and (~~subtractions~~) in the output.
+A simple tool to compare two bible versions, creating a new version with (++additons++) and (\~~subtractions~~) in the output.
 
 ## Usage
 
